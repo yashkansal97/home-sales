@@ -6,6 +6,6 @@ In this challenge, we used PySpark to learn how to work with a big dataset. We r
 3. Third, we partitioned the dataset based on the date_built column in a parquet format
 
 With each step, the time to run the query reduced, with the respective times for each step listed below:
-1. 0.7367236614227295 seconds
-2. 0.5023884773254395 seconds
-3. 0.39278388023376465 seconds
+1. 0.984703540802002 seconds
+2. 0.46376800537109375 seconds
+3. 0.38233375549316406 seconds
